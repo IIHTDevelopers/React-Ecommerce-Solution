@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mousee",
+      "description": "Description for Mouse",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "Keyboard",
+      "description": "Description for Keyboard",
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "name": "Carpet",
+      "description": "Description for Carpet",
+      "price": 39.99
+    }
+  ]
+}
